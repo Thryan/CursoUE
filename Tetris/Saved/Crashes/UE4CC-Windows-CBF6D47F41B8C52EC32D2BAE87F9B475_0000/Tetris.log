@@ -1,0 +1,1390 @@
+﻿Log file open, 12/16/18 15:28:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Tetris
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.390411
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.086s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: R:/Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.16-18.28.18:728][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.16-18.28.18:728][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.16-18.28.18:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Engine.ini]
+[2018.12.16-18.28.18:728][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.16-18.28.18:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Engine.ini]
+[2018.12.16-18.28.18:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Engine.ini]
+[2018.12.16-18.28.18:728][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.16-18.28.18:728][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.16-18.28.18:728][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.16-18.28.18:728][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.16-18.28.18:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.16-18.28.18:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.16-18.28.18:728][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.16-18.28.18:728][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Engine.ini]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.16-18.28.18:729][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Engine.ini]
+[2018.12.16-18.28.18:729][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Engine.ini]
+[2018.12.16-18.28.18:738][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-18.28.18:738][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.16-18.28.18:738][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.16-18.28.18:738][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-18.28.18:738][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.16-18.28.18:738][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-18.28.18:738][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.16-18.28.18:738][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.16-18.28.18:738][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.16-18.28.18:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.16-18.28.18:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.16-18.28.18:738][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.16-18.28.18:738][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.16-18.28.18:738][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.16-18.28.18:738][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.16-18.28.18:739][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.16-18.28.18:739][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.16-18.28.18:739][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.16-18.28.18:752][  0]LogHAL: Display: Platform has ~ 16 GB [17119305728 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.16-18.28.18:752][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.16-18.28.18:752][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.16-18.28.18:752][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-18.28.18:752][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.16-18.28.18:752][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.16-18.28.18:752][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-18.28.18:752][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.16-18.28.18:752][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-18.28.18:752][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.16-18.28.18:752][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.16-18.28.18:752][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.16-18.28.18:752][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.16-18.28.18:752][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.16-18.28.18:752][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.16-18.28.18:752][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.16-18.28.18:752][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.16-18.28.18:752][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.16-18.28.18:752][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.16-18.28.18:753][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.16-18.28.18:753][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Config/Windows/Engine.ini]
+[2018.12.16-18.28.18:753][  0]LogInit: Computer: THRYAN-PC
+[2018.12.16-18.28.18:753][  0]LogInit: User: rroja
+[2018.12.16-18.28.18:753][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.12.16-18.28.18:753][  0]LogInit: High frequency timer resolution =3.117189 MHz
+[2018.12.16-18.28.18:754][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.16-18.28.18:754][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.16-18.28.18:754][  0]LogMemory: Process Physical Memory: 103.48 MB used, 103.48 MB peak
+[2018.12.16-18.28.18:754][  0]LogMemory: Process Virtual Memory: 86.41 MB used, 86.41 MB peak
+[2018.12.16-18.28.18:754][  0]LogMemory: Physical Memory: 6281.85 MB used,  10044.39 MB free, 16326.24 MB total
+[2018.12.16-18.28.18:754][  0]LogMemory: Virtual Memory: 4665.00 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2018.12.16-18.28.18:767][  0]LogInit: Overriding language with editor language configuration option (es-CL).
+[2018.12.16-18.28.18:767][  0]LogInit: Overriding locale with editor locale configuration option (es-CL).
+[2018.12.16-18.28.18:767][  0]LogTextLocalizationManager: No specific localization for 'es-CL' exists, so the 'es' localization will be used.
+[2018.12.16-18.28.19:067][  0]LogStreaming: Display: Took  0.300s to InitEngineTextLocalization.
+[2018.12.16-18.28.19:067][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.16-18.28.19:097][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.16-18.28.19:097][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.16-18.28.19:247][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.16-18.28.19:247][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.16-18.28.19:297][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.12.16-18.28.19:297][  0]LogD3D11RHI:       11127/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.16-18.28.19:299][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.16-18.28.19:299][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.16-18.28.19:299][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.16-18.28.19:305][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.16-18.28.19:305][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.16-18.28.19:305][  0]LogWindows: EnumDisplayDevices:
+[2018.12.16-18.28.19:305][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.12.16-18.28.19:305][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2018.12.16-18.28.19:305][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.12.16-18.28.19:306][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.12.16-18.28.19:306][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.16-18.28.19:306][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.12.16-18.28.19:306][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2018.12.16-18.28.19:306][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2018.12.16-18.28.19:306][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2018.12.16-18.28.19:337][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.16-18.28.19:359][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.16-18.28.19:624][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.16-18.28.19:634][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.16-18.28.19:645][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.16-18.28.19:656][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.16-18.28.19:665][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.16-18.28.19:675][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.16-18.28.19:684][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.16-18.28.19:694][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.16-18.28.19:697][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.16-18.28.19:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:765][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:765][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:765][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:765][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:765][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:765][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:765][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:765][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:765][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-18.28.19:766][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.16-18.28.19:821][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.16-18.28.19:821][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.16-18.28.19:839][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.16-18.28.19:840][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.16-18.28.19:849][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.16-18.28.19:858][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.16-18.28.19:867][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.16-18.28.19:877][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.16-18.28.19:911][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.16-18.28.19:911][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.16-18.28.19:911][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.16-18.28.19:945][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Intermediate/Shaders/WorkingDirectory/9156/).
+[2018.12.16-18.28.19:945][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rroja/AppData/Local/Temp/UnrealShaderWorkingDir/9828D38040D75C8DFC51A49431266D5D/'.
+[2018.12.16-18.28.19:946][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.16-18.28.19:946][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.16-18.28.19:946][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.16-18.28.20:375][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.16-18.28.20:418][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/rroja/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.16-18.28.20:418][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rroja/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.16-18.28.20:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/rroja/Documents/GIT/CursoUE/Tetris/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.16-18.28.20:418][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.16-18.28.20:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/rroja/Documents/GIT/CursoUE/Tetris/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.16-18.28.20:418][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.16-18.28.20:430][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.16-18.28.20:430][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.16-18.28.20:430][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.16-18.28.20:441][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rroja/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.16-18.28.20:441][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.16-18.28.20:441][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.16-18.28.20:459][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.16-18.28.20:460][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.16-18.28.20:461][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.16-18.28.20:533][  0]LogAssetRegistry: FAssetRegistry took 0.0305 seconds to start up
+[2018.12.16-18.28.20:774][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.16-18.28.20:881][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.16-18.28.20:883][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.16-18.28.20:883][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.16-18.28.20:883][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.16-18.28.20:883][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.16-18.28.20:892][  0]LogNetVersion: Tetris 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1361926366)
+[2018.12.16-18.28.21:264][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.080301 seconds
+[2018.12.16-18.28.21:268][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.16-18.28.21:268][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.16-18.28.21:268][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.16-18.28.21:902][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.16-18.28.21:914][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.16-18.28.22:445][  0]SourceControl: El control de código fuente está desactivado
+[2018.12.16-18.28.22:445][  0]SourceControl: El control de código fuente está desactivado
+[2018.12.16-18.28.22:447][  0]SourceControl: El control de código fuente está desactivado
+[2018.12.16-18.28.22:447][  0]SourceControl: El control de código fuente está desactivado
+[2018.12.16-18.28.22:595][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.16-18.28.22:657][  0]LogOcInput: OculusInput pre-init called
+[2018.12.16-18.28.22:776][  0]LogEngine: Initializing Engine...
+[2018.12.16-18.28.22:777][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.16-18.28.22:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.16-18.28.22:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.16-18.28.22:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.16-18.28.22:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.16-18.28.22:957][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.16-18.28.22:964][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.16-18.28.22:985][  0]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.28.22:994][  0]LogInit: FAudioDevice initialized.
+[2018.12.16-18.28.22:994][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.16-18.28.23:044][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/rroja/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.16-18.28.23:053][  0]LogInit: Texture streaming: Enabled
+[2018.12.16-18.28.23:061][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.16-18.28.23:069][  0]LogInit: Transaction tracking system initialized
+[2018.12.16-18.28.23:081][  0]BlueprintLog: New page: Cargar el editor
+[2018.12.16-18.28.23:117][  0]LocalizationService: Localization service is disabled
+[2018.12.16-18.28.23:468][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Content/' took 0.02s
+[2018.12.16-18.28.23:468][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.16-18.28.23:469][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.16-18.28.23:469][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.16-18.28.23:469][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.16-18.28.23:469][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.16-18.28.23:469][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.16-18.28.23:469][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.16-18.28.23:580][  0]SourceControl: El control de código fuente está desactivado
+[2018.12.16-18.28.23:580][  0]Cmd: MAP LOAD FILE="C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Content/PuzzleBP/Maps/PuzzleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.16-18.28.23:581][  0]LightingResults: New page: Diseñar la iluminación
+[2018.12.16-18.28.23:582][  0]MapCheck: New page: Revisión del mapa
+[2018.12.16-18.28.23:582][  0]LightingResults: New page: Diseñar la iluminación
+[2018.12.16-18.28.23:890][  0]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.28.23:894][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.16-18.28.23:919][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.16-18.28.23:919][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,146ms to complete.
+[2018.12.16-18.28.23:919][  0]LogFileHelpers: Loading map 'PuzzleExampleMap' took 0.339
+[2018.12.16-18.28.24:039][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.28.24:046][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.28.24:051][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.28.24:057][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.28.24:065][  0]LogCollectionManager: Loaded 0 collections in 0.001046 seconds
+[2018.12.16-18.28.24:079][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Collections/' took 0.01s
+[2018.12.16-18.28.24:079][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Content/Developers/rroja/Collections/' took 0.00s
+[2018.12.16-18.28.24:079][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Content/Collections/' took 0.00s
+[2018.12.16-18.28.24:079][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.16-18.28.24:089][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2651 classes and 620 folders.
+[2018.12.16-18.28.24:093][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.16-18.28.24:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:169][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:180][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:193][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:235][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:239][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:277][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:281][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:290][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:324][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:329][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:333][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-18.28.24:623][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.16-18.28.24:645][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.16-18.28.24:661][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.16-18.28.24:663][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.16-18.28.24:681][  0]LogSlate: Took 0.012990 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.16-18.28.24:859][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.16-18.28.24:975][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.16-18.28.24:975][  0]LogLoad: (Engine Initialization) Total time: 7.79 seconds
+[2018.12.16-18.28.24:975][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.16-18.28.24:985][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.16-18.28.25:030][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.16-18.28.25:044][  0]LogSlate: Took 0.003715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.16-18.28.25:093][  1]LogAssetRegistry: Asset discovery search completed in 4.5829 seconds
+[2018.12.16-18.28.25:095][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.16-18.28.25:095][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2018.12.16-18.28.25:997][105]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.16-18.28.29:360][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.28.29:450][516]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBP/Blueprints/PuzzleBlockGrid.PuzzleBlockGrid
+[2018.12.16-18.28.30:001][516]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2018.12.16-18.28.30:797][516]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBP/Blueprints/PuzzleBlock.PuzzleBlock
+[2018.12.16-18.28.31:020][516]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBP/Blueprints/espera.espera
+[2018.12.16-18.28.31:236][516]LogSlate: Took 0.003758 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.16-18.28.33:557][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.12.16-18.28.34:120][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.12.16-18.28.37:445][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.28.37:528][231]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.28.37:541][231]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.28.37:541][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-18.28.37:542][231]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:28:37)
+[2018.12.16-18.28.37:554][231]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.28.37:567][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013397s)
+[2018.12.16-18.28.37:568][231]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.28.37:568][231]LogPlayLevel: PIE: World Init took: (0.000443s)
+[2018.12.16-18.28.37:568][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.014075s)
+[2018.12.16-18.28.37:614][231]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.28.37:618][231]LogInit: FAudioDevice initialized.
+[2018.12.16-18.28.37:662][231]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.28.37:663][231]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.28.37
+[2018.12.16-18.28.37:664][231]LogWorld: Bringing up level for play took: 0.000529
+[2018.12.16-18.28.37:678][231]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2018.12.16-18.28.37:679][231]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap -0,511
+[2018.12.16-18.28.37:680][231]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.28.40:946][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.28.41:031][628]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.28.41:031][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.28.41:066][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.28.41:066][628]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.28.41:092][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.28.41:132][632]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.12.16-18.28.42:330][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.12.16-18.28.45:179][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.12.16-18.28.46:959][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.12.16-18.28.55:244][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.29.07:520][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.16-18.29.09:461][405]LogSlate: Took 0.003386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.16-18.29.12:182][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.12.16-18.29.17:985][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.29.20:886][705]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.16-18.29.36:868][495]LogSlate: Window 'espera*' being destroyed
+[2018.12.16-18.29.36:871][495]LogSlate: Window 'espera*' being destroyed
+[2018.12.16-18.29.36:926][495]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.16-18.29.36:980][495]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.16-18.29.42:974][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.12.16-18.29.47:052][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.29.54:071][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.12.16-18.29.54:882][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.12.16-18.29.55:581][697]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphere)
+[2018.12.16-18.29.56:384][790]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.12.16-18.29.57:478][912]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.12.16-18.29.58:787][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.12.16-18.30.00:031][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.12.16-18.30.02:959][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.30.13:837][864]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBP/Blueprints/PuzzleBlockGrid.PuzzleBlockGrid
+[2018.12.16-18.30.26:644][327]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBP/Blueprints/espera.espera
+[2018.12.16-18.30.35:104][294]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBP/Blueprints/PuzzleBlock.PuzzleBlock
+[2018.12.16-18.30.55:703][525]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2018.12.16-18.31.00:156][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.16-18.31.12:171][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.31.49:415][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.31.49:498][686]BlueprintLog: New page: Compilar espera
+[2018.12.16-18.31.58:822][751]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.31.58:839][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.31.58:839][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-18.31.58:839][751]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:31:58)
+[2018.12.16-18.31.58:839][751]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.31.58:847][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007768s)
+[2018.12.16-18.31.58:848][751]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.31.58:848][751]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2018.12.16-18.31.58:848][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008517s)
+[2018.12.16-18.31.58:892][751]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.31.58:897][751]LogInit: FAudioDevice initialized.
+[2018.12.16-18.31.58:924][751]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.31.58:925][751]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.31.58
+[2018.12.16-18.31.58:926][751]LogWorld: Bringing up level for play took: 0.000444
+[2018.12.16-18.31.58:941][751]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0,749
+[2018.12.16-18.31.58:941][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.32.03:796][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.32.15:467][712]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.16-18.32.21:133][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.32.24:371][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.32.27:468][142]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.32.27:468][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.32.27:502][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.32.27:502][142]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.32.27:528][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.32.27:569][146]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.16-18.32.51:393][917]BlueprintLog: New page: Compilar espera
+[2018.12.16-18.32.52:367][  8]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.32.52:380][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.32.52:380][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-18.32.52:380][  8]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:32:52)
+[2018.12.16-18.32.52:380][  8]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.32.52:388][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007844s)
+[2018.12.16-18.32.52:388][  8]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.32.52:389][  8]LogPlayLevel: PIE: World Init took: (0.000426s)
+[2018.12.16-18.32.52:389][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008378s)
+[2018.12.16-18.32.52:430][  8]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.32.52:435][  8]LogInit: FAudioDevice initialized.
+[2018.12.16-18.32.52:468][  8]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.32.52:469][  8]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.32.52
+[2018.12.16-18.32.52:469][  8]LogWorld: Bringing up level for play took: 0.000579
+[2018.12.16-18.32.52:484][  8]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0,294
+[2018.12.16-18.32.52:485][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.32.55:490][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.32.55:556][373]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.32.55:556][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.32.55:586][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.32.55:586][373]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.32.55:611][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.32.55:659][378]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.16-18.32.59:543][815]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.32.59:556][815]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.32.59:556][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-18.32.59:556][815]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:32:59)
+[2018.12.16-18.32.59:556][815]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.32.59:565][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008719s)
+[2018.12.16-18.32.59:565][815]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.32.59:566][815]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2018.12.16-18.32.59:566][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.009438s)
+[2018.12.16-18.32.59:610][815]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.32.59:615][815]LogInit: FAudioDevice initialized.
+[2018.12.16-18.32.59:652][815]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.32.59:654][815]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.32.59
+[2018.12.16-18.32.59:654][815]LogWorld: Bringing up level for play took: 0.000945
+[2018.12.16-18.32.59:670][815]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap -0,521
+[2018.12.16-18.32.59:670][815]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.33.05:263][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.33.05:339][490]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.33.05:339][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.33.05:373][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.33.05:373][490]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.33.05:400][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.33.05:441][494]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.16-18.33.14:711][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.33.56:886][559]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.16-18.34.07:468][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.16-18.34.13:422][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.34.13:504][523]BlueprintLog: New page: Compilar espera
+[2018.12.16-18.34.14:713][645]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.34.14:726][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.34.14:726][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-18.34.14:727][645]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:34:14)
+[2018.12.16-18.34.14:727][645]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.34.14:736][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008876s)
+[2018.12.16-18.34.14:736][645]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.34.14:736][645]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2018.12.16-18.34.14:736][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.009497s)
+[2018.12.16-18.34.14:779][645]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.34.14:784][645]LogInit: FAudioDevice initialized.
+[2018.12.16-18.34.14:814][645]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.34.14:815][645]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.34.14
+[2018.12.16-18.34.14:816][645]LogWorld: Bringing up level for play took: 0.000470
+[2018.12.16-18.34.14:830][645]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0,64
+[2018.12.16-18.34.14:831][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.34.17:010][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.34.17:010][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.34.17:040][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.34.17:040][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.34.17:067][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.34.17:115][909]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.16-18.34.20:570][321]MapCheck: New page: Revisión del mapa
+[2018.12.16-18.34.20:578][321]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.16-18.34.20:578][321]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.16-18.34.20:621][321]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.12.16-18.34.20:628][321]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.12.16-18.34.20:634][321]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.16-18.34.20:634][321]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.16-18.34.20:634][321]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.12.16-18.34.20:640][321]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.12.16-18.34.21:470][321]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.16-18.34.21:470][321]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.16-18.34.21:470][321]TextureStreamingBuild: Display: Compiling optional shaders took 0.853 seconds.
+[2018.12.16-18.34.21:482][321]LogLevel: Display: Export Material TexCoord Scales took 0.012 seconds.
+[2018.12.16-18.34.21:489][321]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2018.12.16-18.34.21:513][321]LightingResults: New page: Diseño de la iluminación - 16-12-2018 12:34:21
+[2018.12.16-18.34.21:606][321]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.16-18.34.21:756][321]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.16-18.34.21:765][321]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.16-18.34.22:286][321]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.16-18.34.22:286][321]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9156
+[2018.12.16-18.34.31:825][321]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.16-18.34.31:825][321]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.16-18.34.31:825][321]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.16-18.34.31:825][321]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.16-18.34.31:825][321]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.16-18.34.31:930][321]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.16-18.34.31:930][321]MapCheck: New page: PuzzleExampleMap - 16-12-2018 12:34:31
+[2018.12.16-18.34.31:931][321]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,495ms to complete.
+[2018.12.16-18.34.31:953][321]LogEditorBuildUtils: Build time 0:11
+[2018.12.16-18.34.34:101][329]Job is a success!
+[2018.12.16-18.34.34:466][330]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2018.12.16-18.34.34:466][330]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.16-18.34.34:466][330]LogVolumetricLightmapImport:      BrickData 105x5x5 = 0.1Mb
+[2018.12.16-18.34.34:466][330]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.16-18.34.34:466][330]LogVolumetricLightmapImport:          0: 4.8% covering 100.0% of volume
+[2018.12.16-18.34.34:466][330]LogVolumetricLightmapImport:          1: 19.0% covering 6.3% of volume
+[2018.12.16-18.34.34:466][330]LogVolumetricLightmapImport:          2: 76.2% covering 0.4% of volume
+[2018.12.16-18.34.34:520][330]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2018.12.16-18.34.34:520][330]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.12.16-18.34.34:520][330]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.12.16-18.34.34:520][330]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.12.16-18.34.34:520][330]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.12.16-18.34.34:520][330]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.12.16-18.34.34:520][330]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.12.16-18.34.34:520][330]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X256)
+[2018.12.16-18.34.34:542][330]Lightmass on THRYAN-PC: 1.67 sec total, 108 ms importing, 17 ms setup, 694 ms photons, 829 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 8.63 sec total, 253 ms processing.
+[2018.12.16-18.34.34:578][330]LogStaticLightingSystem: Illumination: 12.7 sec (22 ms encoding lightmaps, 19 ms encoding shadowmaps)
+[2018.12.16-18.34.34:578][330]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.12.16-18.34.34:578][330]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.12.16-18.34.34:828][330]DumpUnbuiltLightIteractions
+[2018.12.16-18.34.34:829][330]Lights with unbuilt interactions: 0
+[2018.12.16-18.34.34:829][330]
+[2018.12.16-18.34.34:829][330]Primitives with unbuilt interactions: 0
+[2018.12.16-18.34.34:865][331]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.16-18.34.34:867][331]MapCheck: New page: PuzzleExampleMap - 16-12-2018 12:34:34
+[2018.12.16-18.34.34:867][331]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,613ms to complete.
+[2018.12.16-18.34.35:867][334]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.34.35:882][334]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.34.35:882][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-18.34.35:882][334]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:34:35)
+[2018.12.16-18.34.35:882][334]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.34.35:891][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008357s)
+[2018.12.16-18.34.35:891][334]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.34.35:891][334]LogPlayLevel: PIE: World Init took: (0.000473s)
+[2018.12.16-18.34.35:891][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008948s)
+[2018.12.16-18.34.35:932][334]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.34.35:937][334]LogInit: FAudioDevice initialized.
+[2018.12.16-18.34.35:970][334]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.34.35:972][334]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.34.35
+[2018.12.16-18.34.35:972][334]LogWorld: Bringing up level for play took: 0.001068
+[2018.12.16-18.34.35:986][334]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap -0,204
+[2018.12.16-18.34.35:987][334]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.34.38:033][577]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.34.38:033][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.34.38:066][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.34.38:066][577]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.34.38:093][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.34.38:133][581]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.16-18.34.45:356][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.34.45:421][440]BlueprintLog: New page: Compilar espera
+[2018.12.16-18.34.46:963][604]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.34.46:986][604]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.34.46:986][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-18.34.46:986][604]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:34:46)
+[2018.12.16-18.34.46:986][604]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.34.46:994][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007600s)
+[2018.12.16-18.34.46:994][604]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.34.46:995][604]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2018.12.16-18.34.46:995][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008217s)
+[2018.12.16-18.34.47:038][604]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.34.47:042][604]LogInit: FAudioDevice initialized.
+[2018.12.16-18.34.47:072][604]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.34.47:074][604]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.34.47
+[2018.12.16-18.34.47:074][604]LogWorld: Bringing up level for play took: 0.000511
+[2018.12.16-18.34.47:088][604]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0,898
+[2018.12.16-18.34.47:089][604]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.34.49:053][836]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.34.49:053][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.34.49:085][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.34.49:085][836]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.34.49:111][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.34.49:161][841]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.16-18.34.49:496][881]MapCheck: New page: Revisión del mapa
+[2018.12.16-18.34.49:508][881]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.16-18.34.49:508][881]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.16-18.34.49:544][881]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.12.16-18.34.49:550][881]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.12.16-18.34.49:555][881]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.16-18.34.49:556][881]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.12.16-18.34.49:561][881]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.16-18.34.49:561][881]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.12.16-18.34.49:837][881]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.16-18.34.49:837][881]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.16-18.34.49:837][881]TextureStreamingBuild: Display: Compiling optional shaders took 0.296 seconds.
+[2018.12.16-18.34.49:840][881]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2018.12.16-18.34.49:848][881]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2018.12.16-18.34.49:876][881]LightingResults: New page: Diseño de la iluminación - 16-12-2018 12:34:49
+[2018.12.16-18.34.49:880][881]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.16-18.34.49:884][881]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.16-18.34.49:884][881]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.16-18.34.49:884][881]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.16-18.34.49:884][881]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9156
+[2018.12.16-18.34.54:550][881]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.16-18.34.54:550][881]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.16-18.34.54:550][881]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.16-18.34.54:550][881]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.16-18.34.54:550][881]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.16-18.34.54:613][881]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.16-18.34.54:614][881]MapCheck: New page: PuzzleExampleMap - 16-12-2018 12:34:54
+[2018.12.16-18.34.54:614][881]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,407ms to complete.
+[2018.12.16-18.34.54:637][881]LogEditorBuildUtils: Build time 0:05
+[2018.12.16-18.34.56:336][  4]Job is a success!
+[2018.12.16-18.34.56:370][  6]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2018.12.16-18.34.56:370][  6]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.16-18.34.56:370][  6]LogVolumetricLightmapImport:      BrickData 105x5x5 = 0.1Mb
+[2018.12.16-18.34.56:370][  6]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.16-18.34.56:370][  6]LogVolumetricLightmapImport:          0: 4.8% covering 100.0% of volume
+[2018.12.16-18.34.56:370][  6]LogVolumetricLightmapImport:          1: 19.0% covering 6.3% of volume
+[2018.12.16-18.34.56:370][  6]LogVolumetricLightmapImport:          2: 76.2% covering 0.4% of volume
+[2018.12.16-18.34.56:418][  6]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2018.12.16-18.34.56:418][  6]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.12.16-18.34.56:418][  6]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.12.16-18.34.56:418][  6]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.12.16-18.34.56:418][  6]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2018.12.16-18.34.56:418][  6]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.12.16-18.34.56:418][  6]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.12.16-18.34.56:418][  6]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X256)
+[2018.12.16-18.34.56:454][  6]Lightmass on THRYAN-PC: 1.37 sec total, 94 ms importing, 12 ms setup, 695 ms photons, 548 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 5.53 sec total, 296 ms processing.
+[2018.12.16-18.34.56:461][  6]LogStaticLightingSystem: Illumination: 6.57 sec (21 ms encoding lightmaps, 17 ms encoding shadowmaps)
+[2018.12.16-18.34.56:461][  6]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.12.16-18.34.56:462][  6]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.12.16-18.34.56:553][  6]DumpUnbuiltLightIteractions
+[2018.12.16-18.34.56:553][  6]Lights with unbuilt interactions: 0
+[2018.12.16-18.34.56:553][  6]
+[2018.12.16-18.34.56:553][  6]Primitives with unbuilt interactions: 0
+[2018.12.16-18.34.56:600][  7]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.16-18.34.56:600][  7]MapCheck: New page: PuzzleExampleMap - 16-12-2018 12:34:56
+[2018.12.16-18.34.56:600][  7]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,411ms to complete.
+[2018.12.16-18.35.01:660][603]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.35.01:673][603]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.01:673][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-18.35.01:674][603]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:35:01)
+[2018.12.16-18.35.01:674][603]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.35.01:681][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007784s)
+[2018.12.16-18.35.01:682][603]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.35.01:682][603]LogPlayLevel: PIE: World Init took: (0.000427s)
+[2018.12.16-18.35.01:682][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008323s)
+[2018.12.16-18.35.01:722][603]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.35.01:727][603]LogInit: FAudioDevice initialized.
+[2018.12.16-18.35.01:754][603]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.35.01:755][603]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.35.01
+[2018.12.16-18.35.01:755][603]LogWorld: Bringing up level for play took: 0.000474
+[2018.12.16-18.35.01:770][603]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap -0,42
+[2018.12.16-18.35.01:771][603]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.03:851][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.35.03:935][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.03:935][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.35.03:966][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.35.03:967][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.03:995][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.35.04:037][864]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.16-18.35.07:917][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.35.07:992][329]BlueprintLog: New page: Compilar espera
+[2018.12.16-18.35.08:864][413]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.35.08:885][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.08:885][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-18.35.08:885][413]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:35:08)
+[2018.12.16-18.35.08:886][413]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.35.08:894][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007888s)
+[2018.12.16-18.35.08:894][413]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.35.08:894][413]LogPlayLevel: PIE: World Init took: (0.000422s)
+[2018.12.16-18.35.08:894][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008456s)
+[2018.12.16-18.35.08:935][413]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.35.08:940][413]LogInit: FAudioDevice initialized.
+[2018.12.16-18.35.08:974][413]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.35.08:975][413]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.35.08
+[2018.12.16-18.35.08:975][413]LogWorld: Bringing up level for play took: 0.000739
+[2018.12.16-18.35.08:991][413]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0,8
+[2018.12.16-18.35.08:991][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.11:400][700]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.11:400][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.35.11:431][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.35.11:431][700]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.11:459][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.35.11:507][705]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.16-18.35.24:987][291]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.985 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.12.16-18.35.27:732][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.35.35:415][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.35.40:689][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.35.40:772][172]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.35.40:793][172]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.40:794][172]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.16-18.35.40:795][172]LogPlayLevel: [PlayLevel] Compiling espera before play...
+[2018.12.16-18.35.40:923][172]LogPlayLevel: PlayLevel: Blueprint regeneration took 129 ms (1 blueprints)
+[2018.12.16-18.35.40:923][172]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:35:40)
+[2018.12.16-18.35.40:923][172]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.35.40:930][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007671s)
+[2018.12.16-18.35.40:930][172]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.35.40:931][172]LogPlayLevel: PIE: World Init took: (0.000443s)
+[2018.12.16-18.35.40:931][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008225s)
+[2018.12.16-18.35.40:975][172]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.35.40:980][172]LogInit: FAudioDevice initialized.
+[2018.12.16-18.35.41:011][172]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.35.41:012][172]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.35.41
+[2018.12.16-18.35.41:013][172]LogWorld: Bringing up level for play took: 0.000468
+[2018.12.16-18.35.41:027][172]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0,837
+[2018.12.16-18.35.41:028][172]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.43:396][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.16-18.35.44:934][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.35.45:010][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.45:010][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.35.45:044][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.35.45:044][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.45:070][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.35.45:109][645]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.16-18.35.52:892][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.35.52:966][566]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.35.52:979][566]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.52:979][566]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.16-18.35.52:980][566]LogPlayLevel: [PlayLevel] Compiling espera before play...
+[2018.12.16-18.35.53:093][566]LogPlayLevel: PlayLevel: Blueprint regeneration took 114 ms (1 blueprints)
+[2018.12.16-18.35.53:094][566]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:35:53)
+[2018.12.16-18.35.53:094][566]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.35.53:101][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007542s)
+[2018.12.16-18.35.53:102][566]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.35.53:102][566]LogPlayLevel: PIE: World Init took: (0.000475s)
+[2018.12.16-18.35.53:102][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008130s)
+[2018.12.16-18.35.53:141][566]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.35.53:146][566]LogInit: FAudioDevice initialized.
+[2018.12.16-18.35.53:179][566]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.35.53:180][566]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.35.53
+[2018.12.16-18.35.53:181][566]LogWorld: Bringing up level for play took: 0.000447
+[2018.12.16-18.35.53:194][566]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 1,004
+[2018.12.16-18.35.53:194][566]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.55:062][786]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.55:062][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.35.55:095][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.35.55:095][786]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.35.55:122][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.35.55:161][790]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.16-18.35.56:165][910]MapCheck: New page: Revisión del mapa
+[2018.12.16-18.35.56:175][910]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.16-18.35.56:175][910]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.16-18.35.56:213][910]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.12.16-18.35.56:219][910]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.16-18.35.56:219][910]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.12.16-18.35.56:225][910]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.12.16-18.35.56:231][910]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.16-18.35.56:231][910]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.12.16-18.35.56:507][910]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.16-18.35.56:507][910]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.16-18.35.56:507][910]TextureStreamingBuild: Display: Compiling optional shaders took 0.297 seconds.
+[2018.12.16-18.35.56:510][910]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2018.12.16-18.35.56:516][910]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2018.12.16-18.35.56:544][910]LightingResults: New page: Diseño de la iluminación - 16-12-2018 12:35:56
+[2018.12.16-18.35.56:549][910]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.16-18.35.56:551][910]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.16-18.35.56:551][910]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.16-18.35.56:551][910]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.16-18.35.56:551][910]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9156
+[2018.12.16-18.36.01:225][910]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.16-18.36.01:225][910]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.16-18.36.01:225][910]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.16-18.36.01:225][910]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.16-18.36.01:225][910]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.16-18.36.01:292][910]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.16-18.36.01:292][910]MapCheck: New page: PuzzleExampleMap - 16-12-2018 12:36:01
+[2018.12.16-18.36.01:292][910]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,403ms to complete.
+[2018.12.16-18.36.01:315][910]LogEditorBuildUtils: Build time 0:05
+[2018.12.16-18.36.02:884][ 22]Job is a success!
+[2018.12.16-18.36.02:923][ 24]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2018.12.16-18.36.02:923][ 24]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.16-18.36.02:923][ 24]LogVolumetricLightmapImport:      BrickData 105x5x5 = 0.1Mb
+[2018.12.16-18.36.02:923][ 24]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.16-18.36.02:923][ 24]LogVolumetricLightmapImport:          0: 4.8% covering 100.0% of volume
+[2018.12.16-18.36.02:923][ 24]LogVolumetricLightmapImport:          1: 19.0% covering 6.3% of volume
+[2018.12.16-18.36.02:923][ 24]LogVolumetricLightmapImport:          2: 76.2% covering 0.4% of volume
+[2018.12.16-18.36.02:970][ 24]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2018.12.16-18.36.02:970][ 24]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.12.16-18.36.02:970][ 24]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.12.16-18.36.02:970][ 24]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.12.16-18.36.02:970][ 24]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.12.16-18.36.02:970][ 24]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.12.16-18.36.02:970][ 24]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2018.12.16-18.36.02:970][ 24]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X256)
+[2018.12.16-18.36.03:005][ 24]Lightmass on THRYAN-PC: 1.26 sec total, 94 ms importing, 14 ms setup, 691 ms photons, 434 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 4.29 sec total, 287 ms processing.
+[2018.12.16-18.36.03:010][ 24]LogStaticLightingSystem: Illumination: 6.45 sec (20 ms encoding lightmaps, 17 ms encoding shadowmaps)
+[2018.12.16-18.36.03:010][ 24]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.12.16-18.36.03:010][ 24]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.12.16-18.36.03:223][ 24]DumpUnbuiltLightIteractions
+[2018.12.16-18.36.03:223][ 24]Lights with unbuilt interactions: 0
+[2018.12.16-18.36.03:223][ 24]
+[2018.12.16-18.36.03:223][ 24]Primitives with unbuilt interactions: 0
+[2018.12.16-18.36.03:271][ 25]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.16-18.36.03:271][ 25]MapCheck: New page: PuzzleExampleMap - 16-12-2018 12:36:03
+[2018.12.16-18.36.03:271][ 25]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,399ms to complete.
+[2018.12.16-18.36.04:323][148]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.36.04:336][148]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.36.04:336][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-18.36.04:336][148]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:36:04)
+[2018.12.16-18.36.04:337][148]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.36.04:345][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008004s)
+[2018.12.16-18.36.04:345][148]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.36.04:345][148]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2018.12.16-18.36.04:345][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008573s)
+[2018.12.16-18.36.04:385][148]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.36.04:390][148]LogInit: FAudioDevice initialized.
+[2018.12.16-18.36.04:422][148]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.36.04:423][148]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.36.04
+[2018.12.16-18.36.04:424][148]LogWorld: Bringing up level for play took: 0.000476
+[2018.12.16-18.36.04:438][148]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0,247
+[2018.12.16-18.36.04:438][148]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.36.05:029][217]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.36.05:029][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.36.05:064][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.36.05:064][217]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.36.05:090][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.36.05:130][221]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.16-18.36.13:239][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.36.30:170][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.36.40:480][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.36.49:817][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.16-18.36.53:025][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.36.53:091][831]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.36.53:103][831]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.36.53:103][831]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.16-18.36.53:105][831]LogPlayLevel: [PlayLevel] Compiling espera before play...
+[2018.12.16-18.36.53:217][831]LogPlayLevel: PlayLevel: Blueprint regeneration took 113 ms (1 blueprints)
+[2018.12.16-18.36.53:217][831]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:36:53)
+[2018.12.16-18.36.53:217][831]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.36.53:226][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008437s)
+[2018.12.16-18.36.53:227][831]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.36.53:227][831]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2018.12.16-18.36.53:227][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.009282s)
+[2018.12.16-18.36.53:271][831]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.36.53:276][831]LogInit: FAudioDevice initialized.
+[2018.12.16-18.36.53:308][831]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.36.53:309][831]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.36.53
+[2018.12.16-18.36.53:309][831]LogWorld: Bringing up level for play took: 0.000464
+[2018.12.16-18.36.53:324][831]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 1,134
+[2018.12.16-18.36.53:325][831]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.36.54:358][948]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.36.54:358][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.36.54:393][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.36.54:393][948]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.36.54:420][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.36.54:462][952]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.12.16-18.37.02:638][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.16-18.37.07:776][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.37.14:322][303]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.37.14:336][303]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.37.14:336][303]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.16-18.37.14:338][303]LogPlayLevel: [PlayLevel] Compiling espera before play...
+[2018.12.16-18.37.14:455][303]LogPlayLevel: PlayLevel: Blueprint regeneration took 119 ms (1 blueprints)
+[2018.12.16-18.37.14:455][303]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:37:14)
+[2018.12.16-18.37.14:455][303]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.37.14:463][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007677s)
+[2018.12.16-18.37.14:463][303]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.37.14:463][303]LogPlayLevel: PIE: World Init took: (0.000445s)
+[2018.12.16-18.37.14:463][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008229s)
+[2018.12.16-18.37.14:508][303]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.37.14:512][303]LogInit: FAudioDevice initialized.
+[2018.12.16-18.37.14:543][303]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.37.14:544][303]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.37.14
+[2018.12.16-18.37.14:544][303]LogWorld: Bringing up level for play took: 0.000461
+[2018.12.16-18.37.14:559][303]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0,368
+[2018.12.16-18.37.14:560][303]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.37.28:490][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.37.28:490][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.37.28:524][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.37.28:524][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.37.28:549][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.37.28:615][916]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.12.16-18.37.31:963][313]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.37.31:977][313]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.37.31:977][313]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.16-18.37.31:989][313]LogPlayLevel: [PlayLevel] Compiling PuzzleBlockGrid before play...
+[2018.12.16-18.37.32:113][313]LogPlayLevel: PlayLevel: Blueprint regeneration took 135 ms (1 blueprints)
+[2018.12.16-18.37.32:113][313]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:37:32)
+[2018.12.16-18.37.32:113][313]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.37.32:121][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007866s)
+[2018.12.16-18.37.32:121][313]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.37.32:121][313]LogPlayLevel: PIE: World Init took: (0.000426s)
+[2018.12.16-18.37.32:121][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008408s)
+[2018.12.16-18.37.32:162][313]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.37.32:167][313]LogInit: FAudioDevice initialized.
+[2018.12.16-18.37.32:197][313]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.37.32:198][313]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.37.32
+[2018.12.16-18.37.32:198][313]LogWorld: Bringing up level for play took: 0.000585
+[2018.12.16-18.37.32:212][313]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0,021
+[2018.12.16-18.37.32:212][313]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.37.36:655][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.37.36:722][842]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.37.36:722][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.37.36:751][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.37.36:751][842]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.37.36:776][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.37.36:824][847]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.12.16-18.37.40:843][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/espera" FILE="C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Content/PuzzleBP/Blueprints/espera.uasset" SILENT=true
+[2018.12.16-18.37.40:874][322]LogSavePackage: Moving 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/espera9BE17FDC445E32F2085BA19828167E39.tmp' to 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Content/PuzzleBP/Blueprints/espera.uasset'
+[2018.12.16-18.37.41:788][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.37.42:589][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/PuzzleBlockGrid" FILE="C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Content/PuzzleBP/Blueprints/PuzzleBlockGrid.uasset" SILENT=true
+[2018.12.16-18.37.42:623][523]LogSavePackage: Moving 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/PuzzleBlockGridE50B715B4B77D487B59A0AA78F8D202D.tmp' to 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Content/PuzzleBP/Blueprints/PuzzleBlockGrid.uasset'
+[2018.12.16-18.37.42:899][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.37.46:630][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.39.41:002][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.40.53:785][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/PuzzleBlock" FILE="C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset" SILENT=true
+[2018.12.16-18.40.53:821][982]LogSavePackage: Moving 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/PuzzleBlock257C9263447F5D7AB0063185DA232931.tmp' to 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset'
+[2018.12.16-18.40.54:059][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.46.20:975][653]BlueprintLog: New page: Compilar espera
+[2018.12.16-18.46.22:037][762]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.46.22:053][762]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.46.22:053][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-18.46.22:053][762]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:46:22)
+[2018.12.16-18.46.22:053][762]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.46.22:062][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008910s)
+[2018.12.16-18.46.22:063][762]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.46.22:063][762]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2018.12.16-18.46.22:063][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.009685s)
+[2018.12.16-18.46.22:108][762]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.46.22:113][762]LogInit: FAudioDevice initialized.
+[2018.12.16-18.46.22:148][762]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.46.22:149][762]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.46.22
+[2018.12.16-18.46.22:149][762]LogWorld: Bringing up level for play took: 0.000678
+[2018.12.16-18.46.22:163][762]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap -0,027
+[2018.12.16-18.46.22:164][762]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.46.23:499][920]LogBlueprintUserMessages: [espera_C_8] 2
+[2018.12.16-18.46.25:240][129]LogBlueprintUserMessages: [espera_C_2] 2
+[2018.12.16-18.46.25:849][202]LogBlueprintUserMessages: [espera_C_1] 2
+[2018.12.16-18.46.27:433][392]LogBlueprintUserMessages: [espera_C_3] 2
+[2018.12.16-18.46.28:584][530]LogBlueprintUserMessages: [espera_C_7] 2
+[2018.12.16-18.46.28:783][554]LogBlueprintUserMessages: [espera_C_4] 2
+[2018.12.16-18.46.29:324][619]LogBlueprintUserMessages: [espera_C_5] 2
+[2018.12.16-18.46.29:333][620]LogBlueprintUserMessages: [espera_C_8] 2
+[2018.12.16-18.46.30:657][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-18.46.30:733][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.46.30:733][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.46.30:763][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.46.30:764][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.46.30:790][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.46.30:831][791]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.12.16-18.49.25:308][305]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-18.49.25:321][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.49.25:321][305]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.16-18.49.25:325][305]LogPlayLevel: [PlayLevel] Compiling espera before play...
+[2018.12.16-18.49.25:451][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 130 ms (1 blueprints)
+[2018.12.16-18.49.25:451][305]PIE: New page: Sesión PIE (reproducción en el editor): PuzzleExampleMap (16-12-2018 12:49:25)
+[2018.12.16-18.49.25:451][305]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-18.49.25:461][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009796s)
+[2018.12.16-18.49.25:462][305]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-18.49.25:462][305]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2018.12.16-18.49.25:462][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.010523s)
+[2018.12.16-18.49.25:507][305]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-18.49.25:512][305]LogInit: FAudioDevice initialized.
+[2018.12.16-18.49.25:540][305]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-18.49.25:540][305]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-15.49.25
+[2018.12.16-18.49.25:540][305]LogWorld: Bringing up level for play took: 0.000454
+[2018.12.16-18.49.25:554][305]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap -0,636
+[2018.12.16-18.49.25:554][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.49.25:786][330]LogBlueprintUserMessages: [espera_C_5] 2
+[2018.12.16-18.49.26:635][432]LogBlueprintUserMessages: [espera_C_2] 2
+[2018.12.16-18.49.27:252][506]LogBlueprintUserMessages: [espera_C_1] 2
+[2018.12.16-18.49.27:661][555]LogBlueprintUserMessages: [espera_C_4] 2
+[2018.12.16-18.49.27:935][588]LogBlueprintUserMessages: [espera_C_7] 2
+[2018.12.16-18.49.28:496][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.49.28:496][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.49.28:527][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-18.49.28:527][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-18.49.28:554][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-18.49.28:594][659]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.12.16-18.51.33:873][571]BlueprintLog: New page: Compilar espera
+[2018.12.16-18.52.02:109][ 58]LogSavePackage: Moving 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/PuzzleExampleMap_Auto198C32D8248EDEDB790F00C8943036E8F.tmp' to 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Autosaves/Game/PuzzleBP/Maps/PuzzleExampleMap_Auto1.umap'
+[2018.12.16-18.52.02:112][ 58]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/PuzzleExampleMap' took 0.158
+[2018.12.16-18.52.02:112][ 58]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.158
+[2018.12.16-18.52.02:114][ 58]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PuzzleBP/Blueprints/espera] ([1] browsable assets)...
+[2018.12.16-18.52.02:123][ 58]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzleBP/Blueprints/espera.espera]
+[2018.12.16-18.52.02:123][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBP/Blueprints/espera]
+[2018.12.16-18.52.02:123][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/espera" FILE="C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Autosaves/Game/PuzzleBP/Blueprints/espera_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.12.16-18.52.02:150][ 58]LogSavePackage: Moving 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/espera_Auto16E7CC099499E8A70834F7D9AEF9D1914.tmp' to 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Autosaves/Game/PuzzleBP/Blueprints/espera_Auto1.uasset'
+[2018.12.16-18.52.02:151][ 58]LogFileHelpers: Auto-saving content packages took 0.038
+[2018.12.16-19.01.56:834][980]LogSlate: Took 0.057935 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.12.16-19.01.56:848][981]LogSlate: Took 0.004755 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2018.12.16-19.01.58:431][161]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.053759 seconds
+[2018.12.16-19.01.58:431][161]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2018.12.16-19.01.58:431][161]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2018.12.16-19.01.58:992][162]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.16-19.01.58:994][162]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.16-19.01.58:995][162]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.16-19.01.58:999][162]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.16-19.01.59:000][162]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.16-19.01.59:005][162]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.16-19.02.01:180][418]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.12.16-19.02.01:183][418]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.12.16-19.04.47:953][319]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::SetActorScale3D' [No se ha encontrado el elemento.]
+[2018.12.16-19.05.02:907][103]BlueprintLog: New page: Compile espera
+[2018.12.16-19.05.07:122][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.07.25:860][407]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.16-19.07.35:038][434]LogSavePackage: Moving 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/PuzzleExampleMap_Auto2F04837C44E82DE91F4FD56B15BB733FE.tmp' to 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Autosaves/Game/PuzzleBP/Maps/PuzzleExampleMap_Auto2.umap'
+[2018.12.16-19.07.35:041][434]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/PuzzleExampleMap' took 0.148
+[2018.12.16-19.07.35:041][434]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.148
+[2018.12.16-19.07.35:042][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PuzzleBP/Blueprints/espera] ([1] browsable assets)...
+[2018.12.16-19.07.35:051][434]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzleBP/Blueprints/espera.espera]
+[2018.12.16-19.07.35:051][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBP/Blueprints/espera]
+[2018.12.16-19.07.35:051][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/espera" FILE="C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Autosaves/Game/PuzzleBP/Blueprints/espera_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.12.16-19.07.35:076][434]LogSavePackage: Moving 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/espera_Auto2623490EA40F518A1FF3B1882AF782A1E.tmp' to 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/Autosaves/Game/PuzzleBP/Blueprints/espera_Auto2.uasset'
+[2018.12.16-19.07.35:076][434]LogFileHelpers: Auto-saving content packages took 0.034
+[2018.12.16-19.13.31:097][543]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-19.13.31:110][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.13.31:111][543]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.16-19.13.31:115][543]LogPlayLevel: [PlayLevel] Compiling espera before play...
+[2018.12.16-19.13.31:240][543]LogPlayLevel: PlayLevel: Blueprint regeneration took 130 ms (1 blueprints)
+[2018.12.16-19.13.31:240][543]PIE: New page: PIE session: PuzzleExampleMap (Dec 16, 2018, 1:13:31 PM)
+[2018.12.16-19.13.31:241][543]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-19.13.31:251][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010619s)
+[2018.12.16-19.13.31:252][543]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-19.13.31:252][543]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2018.12.16-19.13.31:252][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.011256s)
+[2018.12.16-19.13.31:297][543]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-19.13.31:302][543]LogInit: FAudioDevice initialized.
+[2018.12.16-19.13.31:335][543]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-19.13.31:336][543]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-16.13.31
+[2018.12.16-19.13.31:336][543]LogWorld: Bringing up level for play took: 0.000521
+[2018.12.16-19.13.31:350][543]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 1.16
+[2018.12.16-19.13.31:351][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.15.16:618][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.15.16:684][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.15.16:684][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.15.16:716][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-19.15.16:716][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.15.16:741][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.15.16:790][166]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.12.16-19.15.17:446][244]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-19.15.17:460][244]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.15.17:460][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-19.15.17:460][244]PIE: New page: PIE session: PuzzleExampleMap (Dec 16, 2018, 1:15:17 PM)
+[2018.12.16-19.15.17:460][244]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-19.15.17:468][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007656s)
+[2018.12.16-19.15.17:468][244]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-19.15.17:468][244]LogPlayLevel: PIE: World Init took: (0.000443s)
+[2018.12.16-19.15.17:468][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008211s)
+[2018.12.16-19.15.17:511][244]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-19.15.17:516][244]LogInit: FAudioDevice initialized.
+[2018.12.16-19.15.17:549][244]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-19.15.17:550][244]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-16.15.17
+[2018.12.16-19.15.17:550][244]LogWorld: Bringing up level for play took: 0.000463
+[2018.12.16-19.15.17:564][244]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap -0.627
+[2018.12.16-19.15.17:564][244]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.15.22:954][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.15.23:037][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.15.23:038][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.15.23:067][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-19.15.23:067][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.15.23:094][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.15.23:143][903]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.12.16-19.15.28:371][526]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-19.15.28:385][526]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.15.28:385][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-19.15.28:385][526]PIE: New page: PIE session: PuzzleExampleMap (Dec 16, 2018, 1:15:28 PM)
+[2018.12.16-19.15.28:385][526]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-19.15.28:393][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007954s)
+[2018.12.16-19.15.28:394][526]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-19.15.28:394][526]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2018.12.16-19.15.28:394][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008575s)
+[2018.12.16-19.15.28:438][526]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-19.15.28:442][526]LogInit: FAudioDevice initialized.
+[2018.12.16-19.15.28:471][526]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-19.15.28:472][526]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-16.15.28
+[2018.12.16-19.15.28:473][526]LogWorld: Bringing up level for play took: 0.000469
+[2018.12.16-19.15.28:486][526]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0.296
+[2018.12.16-19.15.28:487][526]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.15.35:995][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.15.35:995][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.15.36:026][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-19.15.36:026][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.15.36:056][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.15.36:097][425]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.12.16-19.15.39:537][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/espera" FILE="C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Content/PuzzleBP/Blueprints/espera.uasset" SILENT=true
+[2018.12.16-19.15.39:567][833]LogSavePackage: Moving 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Saved/esperaFF8298714B43B3BE2039CB8721A26C79.tmp' to 'C:/Users/rroja/Documents/GIT/CursoUE/Tetris/Content/PuzzleBP/Blueprints/espera.uasset'
+[2018.12.16-19.15.49:529][998]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event ActorBeginCursorOver  and was replaced as a Custom Event!
+[2018.12.16-19.15.57:638][963]BlueprintLog: New page: Compile espera
+[2018.12.16-19.15.59:673][189]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-19.15.59:687][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.15.59:687][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-19.15.59:687][189]PIE: New page: PIE session: PuzzleExampleMap (Dec 16, 2018, 1:15:59 PM)
+[2018.12.16-19.15.59:687][189]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.12.16-19.15.59:695][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008081s)
+[2018.12.16-19.15.59:695][189]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.12.16-19.15.59:695][189]LogPlayLevel: PIE: World Init took: (0.000439s)
+[2018.12.16-19.15.59:695][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.008628s)
+[2018.12.16-19.15.59:742][189]LogInit: XAudio2 using 'Altavoces (Sound Blaster Recon3Di)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.16-19.15.59:747][189]LogInit: FAudioDevice initialized.
+[2018.12.16-19.15.59:781][189]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.12.16-19.15.59:782][189]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.12.16-16.15.59
+[2018.12.16-19.15.59:782][189]LogWorld: Bringing up level for play took: 0.000680
+[2018.12.16-19.15.59:796][189]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap -0.394
+[2018.12.16-19.15.59:796][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.16.01:896][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.16.01:896][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.16.01:926][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-19.16.01:926][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.12.16-19.16.01:953][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.16.01:997][442]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.12.16-19.16.25:229][203]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.16-19.16.25:263][203]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.034 s
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: 
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 475]
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'execute' on node 'Set Material' not reciprocally linked with pin 'then' on node 'Event ActorBeginCursorOver'
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: Stack: 
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ff9eeaa8d5f UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ff9eeaa8b5f UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ff9eeb05496 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ff9eb9d43b2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ff9ea1f4522 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ff9ea2787fa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ffa277683ff UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ffa278028ca UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ffa277e857a UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ffa277db44c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ffa4b90de26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ffa4b900de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ffa4b9101eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ffa4b8fca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ffa68f06d41 USER32.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ffa68f06713 USER32.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ffa4b911746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ff6cc2c5546 UE4Editor.exe!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ff6cc2d596c UE4Editor.exe!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ff6cc2d59ea UE4Editor.exe!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ff6cc2e48da UE4Editor.exe!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ff6cc2e659a UE4Editor.exe!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ffa69593034 KERNEL32.DLL!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: [Callstack] 0x00007ffa69853691 ntdll.dll!UnknownFunction []
+[2018.12.16-19.16.25:269][203]LogOutputDevice: Error: 
+[2018.12.16-19.16.25:271][203]LogStats:                SubmitErrorReport -  0.000 s
